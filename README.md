@@ -16,7 +16,7 @@
   two software is an installer
 5. fifth step is
   taken the jre (java run time environment) in project or jdk but recommended is jre.
-6.six step is
+6. six step is
   ope your launch4j
   1. basic
   this step is recommended
@@ -37,7 +37,7 @@
   8. version info => add version information check
     if file the all text filed
   9. Message => your choose
- **build wrapper 
+ ***build wrapper 
 7. seventh step is
   **Zip to the jdk or jre, lib and exe files
   ope your nsis
